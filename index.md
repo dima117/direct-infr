@@ -23,6 +23,8 @@ style: |
         left: 950px;
         border: 1px solid #3C7ABC;
     }
+    
+    .w100 { width: 100% }
 
 ---
 
@@ -82,7 +84,7 @@ style: |
 
 ## Динамически конфигурирует сборку
 
-![](pictures/bundles.png)
+![](pictures/bundles.svg){:.w100}
 
 ## Рефакторинг 
 
