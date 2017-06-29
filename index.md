@@ -93,14 +93,6 @@ style: |
 - {:.next} предоставить информацию о проекте
 {:.big}
 
-## &nbsp;
-
-![](pictures/cfg-before.png){:.cfg-before}
-
-![](pictures/cfg-after.png){:.cfg-after}
-
-### Было и стало
-
 ## Пример плагина
 {:.fullscreen}
 
