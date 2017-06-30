@@ -143,7 +143,6 @@ class TestBundler {
 
 ![](pictures/filter-by-level.svg){:.w50}
 
-
 ## Технологии ENB
 
 - фильтрация файлов
@@ -151,7 +150,11 @@ class TestBundler {
 
 ## Выполнение модульных тестов
 
-&lt;схема&gt;
+![](pictures/phantom-testing.svg){:.w100}
+
+## Заглушки результатов тестов
+
+![](pictures/phantom-testing.svg){:.w100}
 
 ## Технологии ENB
 
