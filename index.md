@@ -26,6 +26,7 @@ style: |
     
     .w100 { width: 100% }
     .w85 { width: 85% }
+    .w60 { width: 60% }
 
 
 ---
@@ -136,7 +137,7 @@ class TestBundler {
 
 ## Фильтрация файлов: по блоку
 
-&lt;схема&gt;
+![](pictures/filter-by-block.svg){:.w60}
 
 ## Фильтрация файлов: по уровню
 
