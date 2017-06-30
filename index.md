@@ -26,7 +26,7 @@ style: |
     
     .w100 { width: 100% }
     .w85 { width: 85% }
-    .w60 { width: 60% }
+    .w50 { width: 50% }
 
 
 ---
@@ -137,11 +137,11 @@ class TestBundler {
 
 ## Фильтрация файлов: по блоку
 
-![](pictures/filter-by-block.svg){:.w60}
+![](pictures/filter-by-block.svg){:.w50}
 
 ## Фильтрация файлов: по уровню
 
-&lt;схема&gt;
+![](pictures/filter-by-level.svg){:.w50}
 
 
 ## Технологии ENB
