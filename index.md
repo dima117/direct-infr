@@ -97,7 +97,6 @@ style: |
 {:.big}
 
 ## Как работает
-{:.fullscreen}
 
 ![](pictures/walker.svg){:.w85}
 
