@@ -154,7 +154,7 @@ class TestBundler {
 
 ## Заглушки результатов тестов
 
-![](pictures/phantom-testing.svg){:.w100}
+![](pictures/empty-result.svg){:.w100}
 
 ## Технологии ENB
 
